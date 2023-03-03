@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab3</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="action_cat1">Кекс</string>
+    <string name="action_cat2">Рудольф</string>
+    <string name="action_cat3">Снежок</string>
+</resources>
