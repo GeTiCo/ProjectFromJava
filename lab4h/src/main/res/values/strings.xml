@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lab4H</string>
+    <string-array name="dlin">
+        <item>mm</item>
+        <item>cm</item>
+        <item>in</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="mass">
+        <item>mm</item>
+        <item>cm</item>
+        <item>in</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+</resources>
